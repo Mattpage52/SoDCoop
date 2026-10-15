@@ -1,0 +1,12 @@
+{
+  "version": "0.5.5",
+  "protocol": 10,
+  "dll": "updates/0.5.5/SoDCoop.dll",
+  "sha256": "fd1863e5ce34e4901e5d3f8f23d4221cb67d443e20c2cf919240bdc4b3ca583c",
+  "size": 556032,
+  "released": "2026-10-14",
+  "notes": [
+    "Guests can pin evidence to the shared case board",
+    "Co-op menu moved to the \\ key"
+  ]
+}
