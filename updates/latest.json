@@ -1,14 +1,13 @@
 {
-  "version": "0.5.6",
-  "protocol": 11,
-  "dll": "0.5.6/SoDCoop.dll",
-  "sha256": "1e5377c942bcf7ee5e1ed00a51f1d8ab0a16727728c489d711c841f7811d8fb2",
-  "size": 629760,
+  "version": "0.5.7",
+  "protocol": 12,
+  "dll": "0.5.7/SoDCoop.dll",
+  "sha256": "954924b0519deba8512610f3a335277856aaba8afb75da35c945ae93d1ebb5cf",
+  "size": 705024,
   "released": "2026-10-15",
   "notes": [
-    "See your friends: a party list with their health and where they are, name tags, and pointers when they're out of view",
-    "Co-op is in the game's own menus: Co-op on the main menu, Server in the pause menu",
-    "Fixed the crash when a guest fought citizens",
-    "Co-op updates itself from now on"
+    "Make your own look: Your Look on the Co-op page (body, face, hair, clothes and their colours) - everyone sees you that way",
+    "Start a Lobby: friends meet you in a diner, and when you start the game everyone comes along",
+    "Everyone needs 0.5.7 to play together (it updates itself when the game starts)"
   ]
 }
