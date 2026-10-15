@@ -1,12 +1,14 @@
 {
-  "version": "0.5.5",
-  "protocol": 10,
-  "dll": "0.5.5/SoDCoop.dll",
-  "sha256": "fd1863e5ce34e4901e5d3f8f23d4221cb67d443e20c2cf919240bdc4b3ca583c",
-  "size": 556032,
-  "released": "2026-10-14",
+  "version": "0.5.6",
+  "protocol": 11,
+  "dll": "0.5.6/SoDCoop.dll",
+  "sha256": "1e5377c942bcf7ee5e1ed00a51f1d8ab0a16727728c489d711c841f7811d8fb2",
+  "size": 629760,
+  "released": "2026-10-15",
   "notes": [
-    "Guests can pin evidence to the shared case board",
-    "Co-op menu moved to the \\ key"
+    "See your friends: a party list with their health and where they are, name tags, and pointers when they're out of view",
+    "Co-op is in the game's own menus: Co-op on the main menu, Server in the pause menu",
+    "Fixed the crash when a guest fought citizens",
+    "Co-op updates itself from now on"
   ]
 }
