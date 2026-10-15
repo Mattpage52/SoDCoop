@@ -1,13 +1,14 @@
 {
-  "version": "0.5.7",
-  "protocol": 12,
-  "dll": "0.5.7/SoDCoop.dll",
-  "sha256": "954924b0519deba8512610f3a335277856aaba8afb75da35c945ae93d1ebb5cf",
-  "size": 705024,
+  "version": "0.5.8",
+  "protocol": 13,
+  "dll": "0.5.8/SoDCoop.dll",
+  "sha256": "3a68499ce041d78097c3e8b8e0b609050276993bf8c6f4b1ef94808277c9f807",
+  "size": 798208,
   "released": "2026-10-15",
   "notes": [
-    "Make your own look: Your Look on the Co-op page (body, face, hair, clothes and their colours) - everyone sees you that way",
-    "Start a Lobby: friends meet you in a diner, and when you start the game everyone comes along",
-    "Everyone needs 0.5.7 to play together (it updates itself when the game starts)"
+    "Proximity voice chat: hear each other by distance, muffled through doors and walls. Pick your mic, voice activated or push to talk in Settings > Audio",
+    "Hats in Your Look (and uniforms with their hats)",
+    "In the lobby: the payphone invites friends, the front door starts the game",
+    "Everyone needs 0.5.8 to play together (it updates itself when the game starts)"
   ]
 }
