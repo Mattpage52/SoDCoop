@@ -1,14 +1,15 @@
 {
-  "version": "0.5.8",
-  "protocol": 13,
-  "dll": "0.5.8/SoDCoop.dll",
-  "sha256": "3a68499ce041d78097c3e8b8e0b609050276993bf8c6f4b1ef94808277c9f807",
-  "size": 798208,
+  "version": "0.5.9",
+  "protocol": 14,
+  "dll": "0.5.9/SoDCoop.dll",
+  "sha256": "88a0d70c7a0d1b14fd5ea4aa34a8bd206d3ab6383c032355aec14ecfa243cf9b",
+  "size": 853504,
   "released": "2026-10-15",
   "notes": [
-    "Proximity voice chat: hear each other by distance, muffled through doors and walls. Pick your mic, voice activated or push to talk in Settings > Audio",
-    "Hats in Your Look (and uniforms with their hats)",
-    "In the lobby: the payphone invites friends, the front door starts the game",
-    "Everyone needs 0.5.8 to play together (it updates itself when the game starts)"
+    "Fixed: after the lobby, friends weren't sent the host's real city, so objects, evidence, board pins, lamps and gates didn't match",
+    "A friend's punch now knocks citizens out",
+    "Sync disks work in co-op (the height disk shows on everyone's screen)",
+    "Voice chat evens out quiet mics and warns if Windows has the game turned down",
+    "Everyone needs 0.5.9 to play together: it downloads when the game starts; restart the game once"
   ]
 }
