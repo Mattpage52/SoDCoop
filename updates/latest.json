@@ -1,15 +1,15 @@
 {
-  "version": "0.5.9",
-  "protocol": 14,
-  "dll": "0.5.9/SoDCoop.dll",
-  "sha256": "88a0d70c7a0d1b14fd5ea4aa34a8bd206d3ab6383c032355aec14ecfa243cf9b",
-  "size": 853504,
+  "version": "0.5.10",
+  "protocol": 15,
+  "dll": "0.5.10/SoDCoop.dll",
+  "sha256": "a442382264537afdb8c38d12ac0693419f3e547c0f032107f6a12a836097f799",
+  "size": 878080,
   "released": "2026-10-15",
   "notes": [
-    "Fixed: after the lobby, friends weren't sent the host's real city, so objects, evidence, board pins, lamps and gates didn't match",
-    "A friend's punch now knocks citizens out",
-    "Sync disks work in co-op (the height disk shows on everyone's screen)",
-    "Voice chat evens out quiet mics and warns if Windows has the game turned down",
-    "Everyone needs 0.5.9 to play together: it downloads when the game starts; restart the game once"
+    "Fixed: friends' light switches now light the room for everyone",
+    "Fixed: friends cutting a security breaker, switching cameras off on a computer, or sabotaging a camera now really turns them off",
+    "You can hear a friend picking a lock",
+    "Your Look works from the main menu: no game needs to be loaded to change how you look",
+    "Everyone needs 0.5.10 to play together: it downloads when the game starts; restart the game once"
   ]
 }
