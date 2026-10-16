@@ -1,15 +1,17 @@
 {
-  "version": "0.5.10",
+  "version": "0.5.11",
   "protocol": 15,
-  "dll": "0.5.10/SoDCoop.dll",
-  "sha256": "a442382264537afdb8c38d12ac0693419f3e547c0f032107f6a12a836097f799",
-  "size": 878080,
-  "released": "2026-10-15",
+  "dll": "0.5.11/SoDCoop.dll",
+  "sha256": "1d8953c688e49f7c882e97fff354b22406ed90546b0478ee513ddaf3efa1cce5",
+  "size": 951808,
+  "released": "2026-10-16",
   "notes": [
-    "Fixed: friends' light switches now light the room for everyone",
-    "Fixed: friends cutting a security breaker, switching cameras off on a computer, or sabotaging a camera now really turns them off",
-    "You can hear a friend picking a lock",
-    "Your Look works from the main menu: no game needs to be loaded to change how you look",
-    "Everyone needs 0.5.10 to play together: it downloads when the game starts; restart the game once"
+    "New City: start a brand-new city from the lobby (or Host a City), not only a save - everyone in the lobby follows you in",
+    "Citizens and police now notice friends: residents and the police go after a friend caught trespassing, and a citizen a friend punches fights back",
+    "Fixed: citizens dropping and getting back up over and over on friends' screens",
+    "Fixed: the music next to a friend changing every couple of seconds",
+    "Fixed: a friend could get stuck at 'Downloading 100%' when joining",
+    "Co-op's own working saves no longer show in the Load list; the party list moved to the top right",
+    "Friends still on 0.5.10 can play with you; updating is recommended (restart the game once)"
   ]
 }
